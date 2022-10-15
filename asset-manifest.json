@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/worldmovies/static/css/main.334bdeb1.css",
+    "main.js": "/worldmovies/static/js/main.ec917f97.js",
+    "index.html": "/worldmovies/index.html",
+    "static/media/search.svg": "/worldmovies/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/worldmovies/static/css/main.334bdeb1.css.map",
+    "main.ec917f97.js.map": "/worldmovies/static/js/main.ec917f97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.ec917f97.js"
+  ]
+}
